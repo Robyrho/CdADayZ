@@ -1,0 +1,11 @@
+itemGroup.cdadayztab=Atlantis DayZ
+
+item.bandage.name=Bandage
+item.splint.name=Splint
+item.antibiotics.name=Antibiotics
+item.wirecutter.name=Wire Cutter
+item.toolbox.name=Tool Box
+
+tile.barbed_wire.name=Barbed Wire
+
+death.attack.BarbedWire=%1$s has stumbed in Barbed Wire.

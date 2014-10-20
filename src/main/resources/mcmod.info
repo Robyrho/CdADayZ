@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cdadayz",
+  "name": "CdA DayZ",
+  "description": "DayZ mod for Ceneri di Atlantis",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["robyrho"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
